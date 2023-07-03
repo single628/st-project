@@ -3,7 +3,7 @@
     <v-head title="出错" goBack="true" bgColor="#f4f4f4"></v-head>
     <div class="info-container">
       <img src="http://xs01.meituan.net/waimai_i/img/error-404.399c57c1.png">
-      <span class="tip">找不到此页面</span>
+      <span class="tip">找不到此页面啦~</span>
       <router-link class="redirect-index" to="/index"><span>回到首页</span></router-link>
     </div>
     <div class="service"><span>美团外卖客服：10109777</span></div>
